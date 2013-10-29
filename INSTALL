@@ -1,0 +1,6 @@
+GenericTree can be used just by checking the repository out and then using it in your
+C# code.
+
+	using GenericTree;
+	
+	
